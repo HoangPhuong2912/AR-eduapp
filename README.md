@@ -14,9 +14,6 @@ Augmented Reality based app which can be used by students with their traditional
  Home Screen looks which have Various buttons which takes you to the particular camera module for detects and Augments a 3d model.
 ![Layout](https://user-images.githubusercontent.com/52004037/213904232-8c0b6e50-da89-430f-90f8-587abebec040.png)
 
-This is how our app Augments the 3d model after detecting the image.
-![Demo](https://user-images.githubusercontent.com/52004037/213904244-07025d9b-30ca-4f59-b932-2e17fc045aad.png)
-
 </br>
 
 
