@@ -4,7 +4,7 @@ Augmented Reality based app which can be used by students with their traditional
 
  App is made with Unity3d 2021.3, which uses C# language. We have also used following Vuforia SDK for Image Processing and Detection.
 
-<b>[Vufoira SDK]11.1 (https://developer.vuforia.com/)</b> -</br>
+<b>[Vufoira SDK11.1] (https://developer.vuforia.com/)</b> -</br>
 
 </br>
 
